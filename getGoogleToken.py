@@ -1,5 +1,10 @@
 # _*_coding:utf-8_*_
 # __author: g
+"""
+PyJWT==1.7.1
+requests==2.24.0
+cryptography==3.2.1
+"""
 import json
 import time
 
